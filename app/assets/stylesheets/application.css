@@ -1,0 +1,102 @@
+.titulo1{
+    font-family: cursive;
+    color:white;
+    color: white; text-shadow: black 0.1em 0.1em 0.2em;
+    font-size: 55px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.titulo2{
+    font-family: cursive;
+    color:white;
+    color: white; text-shadow: black 0.1em 0.1em 0.2em;
+    font-size: 55px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.imagen{
+    background-image: url('https://www.elestudiante.com.co/wp-content/uploads/2020/02/sena-aprendizaje-1.jpg');
+}
+.boton{
+    position: relative;
+    left: 65em;
+    border: 1px solid black;
+    width: 110px;
+    text-align: center;
+}
+
+.general{
+    display: flex;
+    justify-content: space-around;
+    text-align: right;
+    /*border: 1px solid red;*/
+}
+#formu{
+    box-shadow: 0px 0px 10px 8px black;
+    font-family: cursive;
+    color: black;
+    padding-top: 60px;
+    width: 25em;
+    height: 16em;
+    background-color: white;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+.field{
+    margin-top: 10px;
+}
+.formu2{
+    box-shadow: 0px 0px 10px 8px black;
+    font-family: cursive;
+    color: black;
+    padding-top: 60px;
+    width: 25em;
+    height: 16em;
+    background-color: white;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+/*.fondo{
+    /*background-color: rgba(255, 158, 46, 0.932);
+}*/
+.section2{
+    display: flex;
+    justify-content: space-around;
+    text-align: right;
+}
+.opciones{
+    box-shadow: 0px 0px 5px 5px rgb(122, 115, 115);
+    font-family: cursive;
+    color: black;
+    padding-top: 60px;
+    width: 10em;
+    height: 12em;    
+    background-color: white;
+    margin: 1rem;
+    text-align: center;
+    padding: 50px;
+    position: relative;
+    left: 750px;
+    margin-top: 115px;
+}
+.izquierda{
+    /*border: 1px solid red;*/
+    width: 40em;
+    height: 20em;
+    margin-top: -320px;
+    margin-left: 65px;
+    background-image: url('https://pbs.twimg.com/media/EsluwfEXEAAwf-e.jpg');
+    background-size: cover;
+    box-shadow: 0px 0px 5px 5px rgb(122, 115, 115);
+}
+footer{
+    font-size: 16px;
+    line-height: 13px;
+    text-align: center;
+    background-color: orangered;
+    color: white; 
+    height: 20px; 
+    margin-top: 90px;
+}
